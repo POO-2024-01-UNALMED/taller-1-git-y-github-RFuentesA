@@ -1,0 +1,1 @@
+se pudo subir la carpeta ya que tenia el archivo "respuesta.txt" en su interior 
