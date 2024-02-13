@@ -1,3 +1,4 @@
 ricardo armando fuentes arevalo
 20
 Con POO espero poder dominar el paradigma así como integrar java y python a mis herramientas profesionales de desarrollo 
+Pude subir la carpeta debido a que tenía un archivo "respuesta.txt" en su interior, para github una carpeta sin archivos no existe
